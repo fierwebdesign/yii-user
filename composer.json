@@ -1,6 +1,6 @@
 {
     "name": "fierwebdesign/yii-user",
-    "description": "A yii-module for user management",
+    "description": "A yii-module for user management built on top of crisu83/yii-auth",
     "keywords": ["yii", "user", "profile"],
     "type": "yii-extension",
     "license": "BSD-3-Clause",
@@ -10,5 +10,8 @@
             "email": "info@fierwebdesign.nl",
             "homepage": "http://www.fierwebdesign.nl"
         }    
-    ]
+    ],
+	"require": {
+		"crisu83/yii-auth": "dev-master"
+	}    
 }
