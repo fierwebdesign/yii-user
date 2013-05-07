@@ -6,11 +6,6 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-        	"name": "Mikhail Mangushev",
-        	"email": "development@2mx.org",
-        	"homepage": "http://www.2mx.org",
-        },
-        {
             "name": "Laurens van Lavieren",
             "email": "info@fierwebdesign.nl",
             "homepage": "http://www.fierwebdesign.nl"
