@@ -1,0 +1,19 @@
+{
+    "name": "fierwebdesign/yii-user",
+    "description": "A yii-module for user management",
+    "keywords": ["yii", "user", "profile"],
+    "type": "yii-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+        	"name": "Mikhail Mangushev",
+        	"email": "development@2mx.org",
+        	"homepage": "http://www.2mx.org",
+        },
+        {
+            "name": "Laurens van Lavieren",
+            "email": "info@fierwebdesign.nl",
+            "homepage": "http://www.fierwebdesign.nl"
+        }    
+    ]
+}
